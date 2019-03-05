@@ -1,2 +1,2 @@
-# vr-mol-rendering
+# VR Molecular Rendering
 Molecular rendering tests for WebVR
